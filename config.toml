@@ -1,0 +1,7 @@
+theme = "tokyonight_storm"
+
+[keys.normal]
+j = "move_char_left"
+k = "move_char_right"
+n = "move_line_down"
+p = "move_line_up"
