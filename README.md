@@ -2,10 +2,12 @@
 
 ### Theme
 
-tokyonight_storm
+`tokyonight_storm`
 
 
-### Key Remappings
+### Custom Key Mappings
 
-- left_char, right_char = j, k
-- line_up, line_down = p, n
+- `j`, `k` = `move left`, `move right`
+- `p`, `n` = `move up`, `move down`
+- `Ctrl-a` = `move to the start of the line`
+- `Ctrl-e` = `move to the end of the line`
