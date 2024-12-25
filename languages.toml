@@ -1,0 +1,7 @@
+[[language]]
+name = "cpp"
+auto-format = true
+formatter = {command = 'clang-format', args= ["--style=Google"]}
+
+[language-server.clangd.config]
+fallbackFlags = ["-std=c++20"]
